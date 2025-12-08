@@ -16,7 +16,7 @@ The part is a small mechanical bracket typically used to join two surfaces at a 
 
 ## 🖼 Preview
 
-[*(Image of the part is included in the repository)*](https://github.com/aust212/l-bracket/blob/master/bracket.png)
+![Preview](https://github.com/aust212/l-bracket/blob/master/bracket.png)
 
 ## 🛠 Tools Used
 
